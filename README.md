@@ -1,12 +1,12 @@
 # Hi there, I'm Zakaria Lakhdar 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+Intern+%40+Atos;Building+Agents+%26+Methods;42+School+Alumnus" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+Intern+%40+Atos;1337+Benguerir+%2842+Network%29" alt="Typing SVG" />
 </p>
 
 ## 👨‍💻 About me
 
-Software engineer and AI enthusiast from **Morocco 🇲🇦**, currently an **AI intern @ Atos** where I build **agents, skills and methods**. I started my journey at **42 School** — writing C from scratch, through graphics, systems programming, and full-stack web — and now I spend my time at the intersection of **AI, game engines and developer tooling**.
+Software engineer and AI enthusiast from **Morocco 🇲🇦**, currently an **AI intern @ Atos**. I studied at **1337 Benguerir (42 Network)** — writing C from scratch, through graphics, systems programming, and full-stack web — and now I spend my time at the intersection of **AI, game engines and developer tooling**.
 
 - 🔭 I'm currently working on **AI agents** and **reinforcement-learning bots**
 - 🧠 I love **game AI**: MCTS, decoupled search trees, self-play
@@ -45,8 +45,8 @@ Software engineer and AI enthusiast from **Morocco 🇲🇦**, currently an **AI
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zikotissam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zikotissam&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=zikotissam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=zikotissam&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
