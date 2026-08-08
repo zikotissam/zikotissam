@@ -1,6 +1,10 @@
 # Hi there, I'm Zakaria Lakhdar 👋
 
 <p align="center">
+  <img src="profile.jpg" alt="Zakaria Lakhdar" width="160" height="160" style="border-radius:50%" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+Intern+%40+Atos;1337+Benguerir+%2842+Network%29" alt="Typing SVG" />
 </p>
 
