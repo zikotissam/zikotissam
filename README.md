@@ -46,19 +46,6 @@ Software engineer and AI enthusiast from **Morocco 🇲🇦**, currently an **AI
 
 ---
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=zikotissam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=zikotissam&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zikotissam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🐍 Contribution snake
 
 <p align="center">
