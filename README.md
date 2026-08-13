@@ -59,6 +59,22 @@ Software engineer and AI enthusiast from **Morocco 🇲🇦**, currently an **AI
 
 ---
 
+## 🐍 Contribution snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+    <img alt="GitHub contribution snake" src="dist/github-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="dist/github-snake-dark.gif" alt="Animated contribution snake" />
+</p>
+
+---
+
 ## 📫 Get in touch
 
 <p align="center">
